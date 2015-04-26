@@ -1,5 +1,7 @@
 # Getting and Cleaning Data Course Assignment
 
+|                              |                           |                         |                            |
+|------------------------------|---------------------------|-------------------------|----------------------------|
 | *Data Set Characteristics:*  | Multivariate, Time-Series | *Number of Instances:*  | 180                        |
 | *Attribute Characteristics:* | N/A                       | *Number of Attributes:* | 68                         |
 | *Area:*                      | Computer                  | *Associated Tasks:*     | Classification, Clustering |
