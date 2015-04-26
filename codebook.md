@@ -75,6 +75,14 @@ write our tidy data to an output file named `output.txt` in the script's working
 
 ##Description of the variables
 
+For each record it is provided:
+
+- An identifier of the subject who carried out the experiment.
+- Its activity label.
+- Triaxial acceleration from the accelerometer (total acceleration) and the estimated body acceleration.
+- Triaxial Angular velocity from the gyroscope.
+- The mean and standard deviation of time and frequency domain variables.
+
 subject - Subject ID
 activity - Subject's activity at the time of measurement
 tBodyAccMeanX - Mean of the mean value of the Body Accelerometer's time domain signals on the X axis
