@@ -22,7 +22,7 @@ testDataDirectory <- file.path( dataDirectory, "test" )
 trainDataDirectory <- file.path( dataDirectory, "train" )
 
 # In order to free up memory, clean up variables which are no longer necessary
-rm( x_data, dataDirectoryExists, dataFileExists )
+rm( dataDirectoryExists, dataFileExists )
 
 #
 # 1) Merges the training and the test sets to create one data set.
